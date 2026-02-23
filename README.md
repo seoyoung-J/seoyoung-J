@@ -6,7 +6,7 @@
 
 ### 🛠 Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3C3C3C?style=flat&logo=database&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -16,11 +16,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 <br/> 
+
 ### 🔎 About Me
 - 모델 성능 개선을 위한 반복 실험
-- 데이터 구조 이해 및 전처리 일관성  
-- 재현 가능한 코드와 실험 관리  
+- 데이터 구조 이해 및 전처리 일관성
+- 재현 가능한 코드와 실험 관리
 - GitHub 기반 협업
 
+<br/>
+
+📌 주요 프로젝트는 PINNED 저장소에 정리되어 있습니다.
 
 </div>
