@@ -5,7 +5,6 @@
 <br/> 
 
 ### 🛠 Tech Stack 
-### 🛠 Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3C3C3C?style=flat&logo=database&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -17,6 +16,7 @@
 ![MS--SQL](https://img.shields.io/badge/MS--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
 <br/> 
 
 📌 **주요 프로젝트는 Pinned 저장소에 정리되어 있습니다.**
